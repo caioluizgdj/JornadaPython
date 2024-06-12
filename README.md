@@ -5,4 +5,4 @@ Para deixar claro, esses códigos não são originalmente desenvolvidos por mim,
 
 Python PowerUp = Projeto que lê uma planilha de produtos e guiado pelo Pyautogui realiza o cadastro de cada produto automaticamente num site específico.
 
-Python Insights = Projeto que usa de Análise de Dados utilizando Pandas e Jupyter Notebook.
+Python Insights = Projeto que de Análise de Dados utilizando Pandas e Jupyter Notebook.
